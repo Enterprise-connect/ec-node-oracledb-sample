@@ -1,4 +1,4 @@
-#EC OracleDB Node dummy app installation
+#EC OracleDB Node Installation Process for a dummy App
 
 ##Installation
 1. Go to http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html, download these two files (instantclient-basic-linux.x64-12.1.0.2.0.zip, instantclient-sdk-linux.x64-12.1.0.2.0.zip) - your Oracle versions might vary - exmplaes are for this is for 12c
